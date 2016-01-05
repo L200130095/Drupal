@@ -1,0 +1,16 @@
+name = White
+description = Design of White Drupal theme with panty of white space. White is a cool, powerful, clean, Responsive Drupal theme develop by Shivcharan Patil (Shiv). Theme developer is also available at <a href="http://itapplication.net" target="_blank">itApplication.net</a> or email at shiv@itweb.in to customize this theme or create/develop entirely new theme as per your requirements.
+core = 7.x
+
+stylesheets[all][] = css/style.css
+
+screenshot  = logo.png
+
+project = "white"
+
+; Information added by drupal.org packaging script on 2013-08-24
+version = "7.x-1.0"
+core = "7.x"
+project = "white"
+datestamp = "1377359504"
+
